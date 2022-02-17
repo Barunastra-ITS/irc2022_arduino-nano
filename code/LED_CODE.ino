@@ -7,7 +7,7 @@
 #define NUM_LEDS 128
 
 // LED brightness, 0 (min) to 255 (max)
-#define BRIGHTNESS 20 // 80% kecerahan
+#define BRIGHTNESS 204 // 80% kecerahan
 
 // Amount of time for each half-blink, in milliseconds
 #define BLINK_TIME 10
